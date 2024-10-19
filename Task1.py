@@ -32,5 +32,5 @@ def min_cost_to_connect_cables(cables):
     return total_cost
 
 # Приклад
-cables = [4, 3, 2, 6, 9, 11, 29]
+cables = [4, 3, 2, 6, 9, 11]
 print(f"Мінімальна вартість з'єднання кабелів: {min_cost_to_connect_cables(cables)}")
